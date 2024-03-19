@@ -1,0 +1,27 @@
+
+.button{
+    width: 50px;
+    margin: 2px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(9, 14, 65);
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.search{
+    width: 215px;
+    height: 35px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+    background-color: rgb(9,14,65);
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.container{
+    text-align: center;
+}
+.operator{
+    background-color: rgb(255, 166, 0);
+}
